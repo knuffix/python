@@ -1,0 +1,23 @@
+ver 2.0.0
+
+What's new?
+- Cleanup code
+- Added smiles
+- GUI separately from logic
+- Tests with mock-testing
+- More processed exceptions
+
+ver 1.0.1
+
+Added:
+- sending file
+- work in Internet 
+- add commands in chat (for example /kick {name})
+
+ver 1.0.0
+
+Working:
+- decentralized chat
+- simple GUI
+- simple commands
+- processed exceptions
